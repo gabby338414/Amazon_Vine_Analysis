@@ -8,6 +8,7 @@ This analysis aims to determine if paid reviewers on Amazon review with bias whe
 ![Vine_7689](https://github.com/gabby338414/Amazon_Vine_Analysis/blob/8cfe1a61dddf37b468e29845443a6fc4835673d6/Vine_7689.PNG)
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   * There were 11 5 star Vine reviews and 4444 non-Vine reviews.
+![Vine_11](https://github.com/gabby338414/Amazon_Vine_Analysis/blob/e1d59df627c638ac216dafa1e59f98478aa9b7a1/Vine_11.PNG)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   * 52% of Vine reviews were 5 stars and 58% of non-Vine reviews were 5 stars.
 ## Summary:
