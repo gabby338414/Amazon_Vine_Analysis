@@ -12,5 +12,6 @@ This analysis aims to determine if paid reviewers on Amazon review with bias whe
 ![Vine_4444](https://github.com/gabby338414/Amazon_Vine_Analysis/blob/7f936f8b1366ee3bd9f6c74a6a8d45d3ddfdfbbb/Vine_4444.PNG)
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   * 52% of Vine reviews were 5 stars and 58% of non-Vine reviews were 5 stars.
+![Vine_Percentage](https://github.com/gabby338414/Amazon_Vine_Analysis/blob/6cb80ff115f6bde929fbd7904fbe26c1fa921721/Vine_Percentage.PNG)
 ## Summary:
 In conclusion, there wasn't a big impact between paid reviwers and non-paid reviewers. There was 52% Vine reviwes were 5 star and 58% non-Vine reviews were 5 stars.
